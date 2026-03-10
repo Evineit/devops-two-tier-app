@@ -4,7 +4,7 @@ pipeline {
         stage('Clone Code') {
             steps {
                 // Replace with your GitHub repository URL
-                git branch: 'main', url: '[https://github.com/Evineit/devops-two-tier-app.git](https://github.com/Evineit/devops-two-tier-app.git)'
+                git branch: 'main', url: 'https://github.com/Evineit/devops-two-tier-app.git'
             }
         }
         stage('Build Docker Image') {
