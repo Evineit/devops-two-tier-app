@@ -13,3 +13,6 @@ The deployment is containerized using Docker. A full CI/CD pipeline is establish
 ## Docker setup 
 ## Jenkins setup
 https://www.jenkins.io/doc/book/installing/linux/#debianubuntu
+
+## Github setup
+Configure the webhook for jenkins to poll on push
