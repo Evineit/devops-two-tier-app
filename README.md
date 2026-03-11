@@ -8,7 +8,7 @@ The deployment is containerized using Docker. A full CI/CD pipeline is establish
 
 ## EC2 configuration
 *Requirements*
-- 2 GB RAM
+- 2 GB RAM (t2.small)
 
 ## Docker setup 
 ## Jenkins setup
